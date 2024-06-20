@@ -74,6 +74,11 @@ Fetch a specific employee<br/>
 Filter employees<br/>
 
 ## Screenshots<br/>
+### Landing page for Console.<br/>
+![Screenshot of Employee Management Backend](https://github.com/vdrzada24/Employee_Mgmt_backend/blob/main/Screenshot%20(40).png)
+
+
+
 
 
 
