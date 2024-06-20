@@ -77,6 +77,15 @@ Filter employees<br/>
 ### Landing page for Console.<br/>
 ![Screenshot of Employee Management Backend](https://github.com/vdrzada24/Employee_Mgmt_backend/blob/main/Screenshot%20(40).png)
 
+### Adding Employee<br/>
+![Adding Employee](https://github.com/vdrzada24/Employee_Mgmt_backend/blob/main/Screenshot%20(41).png)<br/>
+
+### Employee Added to database<br/>
+![Employee added to database](https://github.com/vdrzada24/Employee_Mgmt_backend/blob/main/43.png)<br/>
+
+### Fetching Employee Details<br/>
+![Employee Details](https://github.com/vdrzada24/Employee_Mgmt_backend/blob/main/Screenshot%20(42).png)<br/>
+
 
 
 
